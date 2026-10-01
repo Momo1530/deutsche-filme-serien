@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" group-title="IPTV Server 1", Server 1 - Username: 280964514831C01
+http://tomixe.in/get.php?username=280964514831C01&password=Y5ogZQdimH&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Server 2", Server 2 - Username: 280964514832
+http://tomixe.in/get.php?username=280964514832&password=Y5ogZQdimH&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Server 3", Server 3 - Username: 280964514833
+http://tomixe.in/get.php?username=280964514833&password=Y5ogZQdimH&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Server 4", Server 4 - Username: 280964514834
+http://tomixe.in/get.php?username=280964514834&password=Y5ogZQdimH&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Server 5", Server 5 - Username: 280964514835
+http://tomixe.in/get.php?username=280964514835&password=Y5ogZQdimH&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Server 6", Server 6 - Username: 280964514836
+http://tomixe.in/get.php?username=280964514836&password=Y5ogZQdimH&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Server 7", Server 7 - Username: 280964514837
+http://tomixe.in/get.php?username=280964514837&password=Y5ogZQdimH&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Server 8", Server 8 - Username: 280964514838
+http://tomixe.in/get.php?username=280964514838&password=Y5ogZQdimH&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Server 9", Server 9 - Username: 280964514839
+http://tomixe.in/get.php?username=280964514839&password=Y5ogZQdimH&type=m3u_plus&output=ts
+
+#EXTINF:-1 tvg-id="" group-title="IPTV Server 10", Server 10 - Username: 280964514840
+http://tomixe.in/get.php?username=280964514840&password=Y5ogZQdimH&type=m3u_plus&output=ts
